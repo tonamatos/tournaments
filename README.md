@@ -1,7 +1,7 @@
-# tournaments
+# Tournaments
 
-This python code counts all tournaments on five vertices. There are twelve. This stackexchange answer
+This short script counts all tournaments on five vertices. There are **twelve**. The stackexchange answer
 
-https://math.stackexchange.com/questions/2416676/find-the-number-of-different-tournaments-with-5-vertices
+<a>https://math.stackexchange.com/questions/2416676/find-the-number-of-different-tournaments-with-5-vertices</a>
 
-incorrectly claims there are ten. Hence the motivation for writing this.
+incorrectly claims there are **ten**.
