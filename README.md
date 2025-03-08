@@ -1,7 +1,7 @@
 # Tournaments
 
-This short script counts all tournaments on five vertices. There are **twelve**. The stackexchange answer
+This short script counts all tournaments on five vertices. There are **twelve**:
 
-<a>https://math.stackexchange.com/questions/2416676/find-the-number-of-different-tournaments-with-5-vertices</a>
+![twelve tournaments](tournaments.png)
 
-incorrectly claims there are **ten**.
+[This](https://math.stackexchange.com/questions/2416676/find-the-number-of-different-tournaments-with-5-vertices) stackexchange answer incorrectly claims that there are **ten**.
